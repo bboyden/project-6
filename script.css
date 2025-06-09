@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+  background: #f7f7f7;
+}
+h1 {
+  color: #333;
+}
+label, input, button {
+  margin: 0.75em 0;
+}
+button {
+  padding: 0.4em 1em;
+  border: none;
+  background-color: #2f1dec;
+  color: white;
+  cursor: pointer;
+  border-radius: 3.75px;
+}
+#foodList {
+  margin-top: 1em;
+  padding: 0.5em;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 3px rgba(21, 16, 16, 0.1);
+}
